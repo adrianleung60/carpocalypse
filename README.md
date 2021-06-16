@@ -1,5 +1,7 @@
 # Carpocalypse!
 
+<img src="https://github.com/adrianleung60/carpocalypse/blob/main/carpocalypse_logo.png" width="400" height="400">
+
 ### Project Team
 Adrian Leung, Beatriz Lombeida Velasquez, Kathleen Gould, and Kristyll Avila 
 
