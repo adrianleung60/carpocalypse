@@ -1,6 +1,6 @@
 # Carpocalypse!
 
-## Project Team:
+### Project Team
 Adrian Leung, Beatriz Lombeida Velasquez, Kathleen Gould, and Kristyll Avila 
 
 Our team is exploring a Calgary without Cars. 
@@ -31,6 +31,11 @@ Within QGIS, visualized clustering values by community together with stops and l
 - Consider seasonal effects of bikeways and walkways usage. 
 - Incorporate into the analysis routes needed for other stakeholders (i.e., mobility devices users).
 - Incorporate extra data (population/tree density, income) into clustering method 
+
+## Project Files
+- QGIS Package - visualizing transit network and machine learning results
+- Colab Notebook - code for backend data analysis and machine learning
+- Maps Folder - primary maps created for visualizing final results
 
 ## References
 ### Datasets
