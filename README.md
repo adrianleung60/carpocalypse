@@ -38,6 +38,7 @@ Within QGIS, visualized clustering values by community together with stops and l
 - QGIS Package - visualizing transit network and machine learning results
 - Colab Notebook - code for backend data analysis and machine learning
 - Maps Folder - primary maps created for visualizing final results
+- walkbiketransitscores.csv - neighbourhood walk,bike and transit scores obtained from walkscore.com API
 
 ## References
 ### Datasets
